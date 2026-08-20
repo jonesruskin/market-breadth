@@ -1,1267 +1,2109 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "summary": {
-    "date": "2026-08-19",
-    "total_symbols": 2855,
-    "advances": 947,
-    "declines": 1872,
-    "unchanged": 33,
-    "ad_ratio": 0.506,
+    "date": "2026-08-20",
+    "total_symbols": 2858,
+    "advances": 1687,
+    "declines": 1122,
+    "unchanged": 45,
+    "ad_ratio": 1.504,
     "pct_above_50dma": null,
     "pct_above_150dma": null,
     "pct_above_200dma": null,
-    "new_highs_count": 0,
-    "new_lows_count": 0,
-    "up_4pct_count": 139,
-    "down_4pct_count": 97,
-    "net_4pct": 42,
+    "new_highs_count": 295,
+    "new_lows_count": 288,
+    "up_4pct_count": 209,
+    "down_4pct_count": 65,
+    "net_4pct": 144,
     "up_25pct_month_count": 0,
     "down_25pct_month_count": 0,
-    "up_down_volume_ratio": 0.74
+    "up_down_volume_ratio": 2.403
   },
   "top_gainers": [
     {
-      "symbol": "CRSL",
-      "close": 2.58,
+      "symbol": "KJMCFIN",
+      "close": 66.42,
+      "pct_chg": 20.0
+    },
+    {
+      "symbol": "SAMBANDAM",
+      "close": 126.0,
+      "pct_chg": 20.0
+    },
+    {
+      "symbol": "MPDL",
+      "close": 34.32,
+      "pct_chg": 20.0
+    },
+    {
+      "symbol": "KRONOX",
+      "close": 186.19,
       "pct_chg": 20.0
     },
     {
       "symbol": "MYSORPETRO",
-      "close": 137.91,
-      "pct_chg": 19.99
+      "close": 165.49,
+      "pct_chg": 20.0
     },
     {
-      "symbol": "TECILCHEM",
-      "close": 10.24,
+      "symbol": "MINALIND",
+      "close": 2.65,
       "pct_chg": 19.91
     },
     {
-      "symbol": "ORIENTHOT",
-      "close": 139.5,
-      "pct_chg": 15.09
+      "symbol": "CRSL",
+      "close": 3.09,
+      "pct_chg": 19.77
     },
     {
-      "symbol": "EXCELINDUS",
-      "close": 1133.25,
-      "pct_chg": 15.03
+      "symbol": "VIRTUALG",
+      "close": 0.51,
+      "pct_chg": 18.6
     },
     {
-      "symbol": "KAMANWALA",
-      "close": 18.63,
-      "pct_chg": 14.58
+      "symbol": "BALRAMCHIN",
+      "close": 767.1,
+      "pct_chg": 17.87
     },
     {
-      "symbol": "KOHINOOR",
-      "close": 31.27,
-      "pct_chg": 14.04
+      "symbol": "BANARISUG",
+      "close": 4240.7,
+      "pct_chg": 17.23
     },
     {
-      "symbol": "ZAGGLE",
-      "close": 186.04,
-      "pct_chg": 12.15
+      "symbol": "SOLARA",
+      "close": 640.0,
+      "pct_chg": 16.35
     },
     {
-      "symbol": "AHLADA",
-      "close": 40.82,
-      "pct_chg": 12.05
+      "symbol": "SOMICONVEY",
+      "close": 100.07,
+      "pct_chg": 15.54
     },
     {
-      "symbol": "SONAMLTD",
-      "close": 67.19,
-      "pct_chg": 11.41
+      "symbol": "KWIL",
+      "close": 43.47,
+      "pct_chg": 15.27
     },
     {
-      "symbol": "SHERVANI",
-      "close": 342.15,
-      "pct_chg": 11.25
+      "symbol": "INDOBORAX",
+      "close": 498.15,
+      "pct_chg": 14.82
     },
     {
-      "symbol": "GFLLIMITED",
-      "close": 56.76,
-      "pct_chg": 10.82
-    },
-    {
-      "symbol": "LAXMICOT",
-      "close": 14.89,
-      "pct_chg": 10.62
-    },
-    {
-      "symbol": "NILKAMAL",
-      "close": 2033.8,
-      "pct_chg": 10.13
-    },
-    {
-      "symbol": "MILKYMIST",
-      "close": 199.65,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "MANBRO",
-      "close": 58.41,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "SALSTEEL",
-      "close": 79.22,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "SIEL",
-      "close": 42.42,
-      "pct_chg": 9.98
-    },
-    {
-      "symbol": "PERMAGN",
-      "close": 882.2,
-      "pct_chg": 9.62
+      "symbol": "DWARKESH",
+      "close": 55.38,
+      "pct_chg": 14.71
     },
     {
       "symbol": "BAJAJHIND",
-      "close": 20.38,
-      "pct_chg": 9.57
+      "close": 23.33,
+      "pct_chg": 14.47
     },
     {
-      "symbol": "TPHQ",
-      "close": 0.69,
-      "pct_chg": 9.52
+      "symbol": "PACIFICI",
+      "close": 150.98,
+      "pct_chg": 13.05
     },
     {
-      "symbol": "RPEL",
-      "close": 1637.4,
-      "pct_chg": 9.51
+      "symbol": "CGVAK",
+      "close": 158.58,
+      "pct_chg": 12.68
     },
     {
-      "symbol": "HEALTHX",
-      "close": 313.7,
-      "pct_chg": 8.73
+      "symbol": "SUVEN",
+      "close": 373.6,
+      "pct_chg": 12.34
     },
     {
-      "symbol": "AVROIND",
-      "close": 9.54,
-      "pct_chg": 8.41
+      "symbol": "UTTAMSUGAR",
+      "close": 336.22,
+      "pct_chg": 11.7
     },
     {
-      "symbol": "DCMSIL",
-      "close": 74.58,
-      "pct_chg": 8.18
+      "symbol": "SWISSMLTRY",
+      "close": 16.44,
+      "pct_chg": 11.46
+    },
+    {
+      "symbol": "KOHINOOR",
+      "close": 34.81,
+      "pct_chg": 11.32
+    },
+    {
+      "symbol": "UGARSUGAR",
+      "close": 56.07,
+      "pct_chg": 11.23
+    },
+    {
+      "symbol": "KOTARISUG",
+      "close": 30.25,
+      "pct_chg": 11.13
+    },
+    {
+      "symbol": "RANASUG",
+      "close": 15.21,
+      "pct_chg": 10.54
     }
   ],
   "top_losers": [
     {
-      "symbol": "KJMCFIN",
-      "close": 55.35,
-      "pct_chg": -10.71
+      "symbol": "TECILCHEM",
+      "close": 9.14,
+      "pct_chg": -10.74
     },
     {
-      "symbol": "BI",
-      "close": 91.66,
-      "pct_chg": -9.59
+      "symbol": "VHLTD",
+      "close": 119.13,
+      "pct_chg": -10.5
     },
     {
-      "symbol": "YASHO",
-      "close": 4470.8,
-      "pct_chg": -9.05
+      "symbol": "KAMANWALA",
+      "close": 16.68,
+      "pct_chg": -10.47
     },
     {
-      "symbol": "MODTHREAD",
-      "close": 52.28,
-      "pct_chg": -9.03
+      "symbol": "BTML",
+      "close": 7.92,
+      "pct_chg": -9.17
     },
     {
-      "symbol": "FINKURVE",
-      "close": 71.36,
-      "pct_chg": -8.74
+      "symbol": "ADDIND",
+      "close": 80.0,
+      "pct_chg": -8.05
     },
     {
-      "symbol": "AAKASH",
-      "close": 8.45,
-      "pct_chg": -7.45
+      "symbol": "NKIND",
+      "close": 56.6,
+      "pct_chg": -8.04
     },
     {
-      "symbol": "PAKKA",
-      "close": 88.54,
-      "pct_chg": -7.28
+      "symbol": "GCSL",
+      "close": 482.05,
+      "pct_chg": -7.6
     },
     {
-      "symbol": "INDSWFTLAB",
-      "close": 322.06,
-      "pct_chg": -7.15
+      "symbol": "MILKYMIST",
+      "close": 184.89,
+      "pct_chg": -7.39
     },
     {
-      "symbol": "DEEPINDS",
-      "close": 667.35,
-      "pct_chg": -7.05
+      "symbol": "WEL",
+      "close": 136.04,
+      "pct_chg": -6.99
     },
     {
-      "symbol": "CGVAK",
-      "close": 140.73,
-      "pct_chg": -6.95
+      "symbol": "SINTERCOM",
+      "close": 79.39,
+      "pct_chg": -6.6
     },
     {
-      "symbol": "ANTELOPUS",
-      "close": 798.35,
-      "pct_chg": -6.79
+      "symbol": "CENTEXT",
+      "close": 20.64,
+      "pct_chg": -6.52
     },
     {
-      "symbol": "MOLBIO",
-      "close": 1036.65,
-      "pct_chg": -6.68
+      "symbol": "ATAM",
+      "close": 55.53,
+      "pct_chg": -6.45
     },
     {
-      "symbol": "DAVANGERE",
-      "close": 2.99,
-      "pct_chg": -6.27
+      "symbol": "SUPTANERY",
+      "close": 7.31,
+      "pct_chg": -6.4
     },
     {
-      "symbol": "PRECWIRE",
-      "close": 429.7,
-      "pct_chg": -6.22
+      "symbol": "BALAXI",
+      "close": 22.3,
+      "pct_chg": -6.26
     },
     {
-      "symbol": "MEDICAPQ",
-      "close": 23.56,
-      "pct_chg": -5.95
+      "symbol": "LAXMICOT",
+      "close": 13.96,
+      "pct_chg": -6.25
     },
     {
-      "symbol": "BHARATSE",
-      "close": 227.19,
-      "pct_chg": -5.7
+      "symbol": "HSCL",
+      "close": 704.2,
+      "pct_chg": -6.14
     },
     {
-      "symbol": "HATSUN",
-      "close": 930.3,
-      "pct_chg": -5.59
+      "symbol": "DREDGECORP",
+      "close": 1118.3,
+      "pct_chg": -5.96
     },
     {
-      "symbol": "NETWEB",
-      "close": 5065.0,
+      "symbol": "GLOBECIVIL",
+      "close": 42.34,
+      "pct_chg": -5.85
+    },
+    {
+      "symbol": "SHREEJISPG",
+      "close": 613.35,
+      "pct_chg": -5.56
+    },
+    {
+      "symbol": "AHLADA",
+      "close": 38.59,
+      "pct_chg": -5.46
+    },
+    {
+      "symbol": "DHABRIYA",
+      "close": 555.25,
       "pct_chg": -5.41
     },
     {
-      "symbol": "MALUPAPER",
-      "close": 30.82,
-      "pct_chg": -5.4
+      "symbol": "TIJARIA",
+      "close": 5.79,
+      "pct_chg": -5.39
     },
     {
-      "symbol": "KOKUYOCMLN",
-      "close": 80.24,
-      "pct_chg": -5.34
+      "symbol": "XTRANET",
+      "close": 160.18,
+      "pct_chg": -5.28
     },
     {
-      "symbol": "SUYOG",
-      "close": 759.25,
+      "symbol": "KEEPLEARN",
+      "close": 1.81,
       "pct_chg": -5.24
     },
     {
-      "symbol": "METROGLOBL",
-      "close": 142.27,
+      "symbol": "HINDADH",
+      "close": 351.0,
       "pct_chg": -5.12
-    },
-    {
-      "symbol": "RRIL",
-      "close": 17.03,
-      "pct_chg": -5.07
-    },
-    {
-      "symbol": "BRIGHTBR",
-      "close": 242.35,
-      "pct_chg": -5.01
-    },
-    {
-      "symbol": "NATIONSTD",
-      "close": 127.3,
-      "pct_chg": -5.0
     }
   ],
-  "new_highs": [],
-  "new_lows": [],
+  "new_highs": [
+    {
+      "symbol": "360ONE",
+      "close": 1203.0,
+      "pct_chg": 1.91
+    },
+    {
+      "symbol": "ABREL",
+      "close": 1445.5,
+      "pct_chg": 3.61
+    },
+    {
+      "symbol": "ACMESOLAR",
+      "close": 397.4,
+      "pct_chg": 4.47
+    },
+    {
+      "symbol": "ADOR",
+      "close": 1684.0,
+      "pct_chg": 3.02
+    },
+    {
+      "symbol": "AFFLE",
+      "close": 1729.5,
+      "pct_chg": 2.11
+    },
+    {
+      "symbol": "AKCAPIT",
+      "close": 1765.2,
+      "pct_chg": 0.63
+    },
+    {
+      "symbol": "ALBERTDAVD",
+      "close": 863.15,
+      "pct_chg": 2.81
+    },
+    {
+      "symbol": "AMANTA",
+      "close": 186.51,
+      "pct_chg": 5.0
+    },
+    {
+      "symbol": "ANANTRAJ",
+      "close": 633.85,
+      "pct_chg": 0.36
+    },
+    {
+      "symbol": "ANDHRSUGAR",
+      "close": 102.74,
+      "pct_chg": 3.23
+    },
+    {
+      "symbol": "AONEGOLD",
+      "close": 14.54,
+      "pct_chg": 2.25
+    },
+    {
+      "symbol": "AONELIQUID",
+      "close": 1073.33,
+      "pct_chg": 0.01
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "close": 2140.0,
+      "pct_chg": 0.86
+    },
+    {
+      "symbol": "APOLLOPIPE",
+      "close": 603.25,
+      "pct_chg": 4.65
+    },
+    {
+      "symbol": "ARIS",
+      "close": 139.32,
+      "pct_chg": 2.44
+    },
+    {
+      "symbol": "ASIANENE",
+      "close": 484.9,
+      "pct_chg": 1.28
+    },
+    {
+      "symbol": "AVADHSUGAR",
+      "close": 814.7,
+      "pct_chg": 9.52
+    },
+    {
+      "symbol": "AVONMORE",
+      "close": 13.3,
+      "pct_chg": 2.07
+    },
+    {
+      "symbol": "AVTNPL",
+      "close": 88.47,
+      "pct_chg": 2.17
+    },
+    {
+      "symbol": "BAJAJHIND",
+      "close": 23.33,
+      "pct_chg": 14.47
+    },
+    {
+      "symbol": "BALRAMCHIN",
+      "close": 767.1,
+      "pct_chg": 17.87
+    },
+    {
+      "symbol": "BALUFORGE",
+      "close": 546.75,
+      "pct_chg": 1.72
+    },
+    {
+      "symbol": "BANARISUG",
+      "close": 4240.7,
+      "pct_chg": 17.23
+    },
+    {
+      "symbol": "BBNPPGOLD",
+      "close": 150.95,
+      "pct_chg": 2.72
+    },
+    {
+      "symbol": "BBTCL",
+      "close": 248.14,
+      "pct_chg": 0.85
+    },
+    {
+      "symbol": "BIRLAPREC",
+      "close": 39.11,
+      "pct_chg": 6.77
+    },
+    {
+      "symbol": "BLACKBUCK",
+      "close": 631.05,
+      "pct_chg": 2.39
+    },
+    {
+      "symbol": "BLIL",
+      "close": 71.44,
+      "pct_chg": 0.42
+    },
+    {
+      "symbol": "BLISSGVS",
+      "close": 580.15,
+      "pct_chg": 1.11
+    },
+    {
+      "symbol": "BLS",
+      "close": 273.92,
+      "pct_chg": 0.94
+    },
+    {
+      "symbol": "BLSE",
+      "close": 321.1,
+      "pct_chg": 2.23
+    },
+    {
+      "symbol": "BODALCHEM",
+      "close": 75.33,
+      "pct_chg": 4.99
+    },
+    {
+      "symbol": "BOROLTD",
+      "close": 257.82,
+      "pct_chg": 3.91
+    },
+    {
+      "symbol": "BOSCH-HCIL",
+      "close": 1772.0,
+      "pct_chg": 0.53
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "close": 48750.0,
+      "pct_chg": 0.6
+    },
+    {
+      "symbol": "BRIGADE",
+      "close": 625.75,
+      "pct_chg": 6.47
+    },
+    {
+      "symbol": "BSLGOLDETF",
+      "close": 137.0,
+      "pct_chg": 2.26
+    },
+    {
+      "symbol": "CANFINHOME",
+      "close": 842.9,
+      "pct_chg": 3.09
+    },
+    {
+      "symbol": "CASHIETF",
+      "close": 1076.02,
+      "pct_chg": 0.01
+    },
+    {
+      "symbol": "CHEMBONDCH",
+      "close": 282.0,
+      "pct_chg": 4.53
+    },
+    {
+      "symbol": "CHOICEGOLD",
+      "close": 154.25,
+      "pct_chg": 2.34
+    },
+    {
+      "symbol": "COFORGE",
+      "close": 1882.0,
+      "pct_chg": 3.8
+    },
+    {
+      "symbol": "COHANCE",
+      "close": 475.55,
+      "pct_chg": 6.42
+    },
+    {
+      "symbol": "COMPUSOFT",
+      "close": 14.12,
+      "pct_chg": 1.8
+    },
+    {
+      "symbol": "COMSYN",
+      "close": 289.77,
+      "pct_chg": 3.29
+    },
+    {
+      "symbol": "CONSUMER",
+      "close": 12.31,
+      "pct_chg": 0.82
+    },
+    {
+      "symbol": "CORDELIA",
+      "close": 907.75,
+      "pct_chg": 10.0
+    },
+    {
+      "symbol": "CORDSCABLE",
+      "close": 241.06,
+      "pct_chg": 2.15
+    },
+    {
+      "symbol": "CORONA",
+      "close": 2165.8,
+      "pct_chg": 2.09
+    },
+    {
+      "symbol": "CSLFINANCE",
+      "close": 225.29,
+      "pct_chg": 0.81
+    },
+    {
+      "symbol": "CTE",
+      "close": 47.18,
+      "pct_chg": 4.98
+    },
+    {
+      "symbol": "CYIENT",
+      "close": 903.05,
+      "pct_chg": 0.96
+    },
+    {
+      "symbol": "DALBHARAT",
+      "close": 1897.0,
+      "pct_chg": 1.17
+    },
+    {
+      "symbol": "DALMIASUG",
+      "close": 508.1,
+      "pct_chg": 6.84
+    },
+    {
+      "symbol": "DBOL",
+      "close": 135.61,
+      "pct_chg": 4.91
+    },
+    {
+      "symbol": "DCMSHRIRAM",
+      "close": 1079.7,
+      "pct_chg": 2.89
+    },
+    {
+      "symbol": "DCMSRIND",
+      "close": 52.84,
+      "pct_chg": 5.91
+    },
+    {
+      "symbol": "DEVYANI",
+      "close": 147.79,
+      "pct_chg": 3.42
+    },
+    {
+      "symbol": "DHAMPURSUG",
+      "close": 189.76,
+      "pct_chg": 7.71
+    },
+    {
+      "symbol": "DIXON",
+      "close": 14850.0,
+      "pct_chg": 2.68
+    },
+    {
+      "symbol": "DLF",
+      "close": 676.15,
+      "pct_chg": 0.93
+    },
+    {
+      "symbol": "DODLA",
+      "close": 1138.0,
+      "pct_chg": 3.27
+    },
+    {
+      "symbol": "DOLPHIN",
+      "close": 621.6,
+      "pct_chg": 0.38
+    },
+    {
+      "symbol": "DWARKESH",
+      "close": 55.38,
+      "pct_chg": 14.71
+    },
+    {
+      "symbol": "EBGNG",
+      "close": 624.75,
+      "pct_chg": 6.18
+    },
+    {
+      "symbol": "ECAPINSURE",
+      "close": 24.18,
+      "pct_chg": 1.6
+    },
+    {
+      "symbol": "EDELWEISS",
+      "close": 126.62,
+      "pct_chg": 3.56
+    },
+    {
+      "symbol": "EGOLD",
+      "close": 155.8,
+      "pct_chg": 2.53
+    },
+    {
+      "symbol": "ELECON",
+      "close": 451.7,
+      "pct_chg": 5.33
+    },
+    {
+      "symbol": "ELIQUID",
+      "close": 1044.36,
+      "pct_chg": 0.01
+    },
+    {
+      "symbol": "EPL",
+      "close": 270.1,
+      "pct_chg": 7.7
+    },
+    {
+      "symbol": "ESAFSFB",
+      "close": 43.27,
+      "pct_chg": 3.22
+    },
+    {
+      "symbol": "ETERNAL",
+      "close": 327.95,
+      "pct_chg": 2.48
+    },
+    {
+      "symbol": "FILATFASH",
+      "close": 0.18,
+      "pct_chg": 0.0
+    },
+    {
+      "symbol": "GAEL",
+      "close": 183.36,
+      "pct_chg": 5.48
+    },
+    {
+      "symbol": "GANGESSECU",
+      "close": 122.07,
+      "pct_chg": 2.6
+    },
+    {
+      "symbol": "GATECH",
+      "close": 0.87,
+      "pct_chg": 4.82
+    },
+    {
+      "symbol": "GENCON",
+      "close": 41.06,
+      "pct_chg": 6.95
+    },
+    {
+      "symbol": "GENUSPOWER",
+      "close": 334.25,
+      "pct_chg": 8.07
+    },
+    {
+      "symbol": "GEOJITFSL",
+      "close": 80.79,
+      "pct_chg": 0.97
+    },
+    {
+      "symbol": "GICL",
+      "close": 23.99,
+      "pct_chg": 0.0
+    },
+    {
+      "symbol": "GILLANDERS",
+      "close": 94.61,
+      "pct_chg": 6.24
+    },
+    {
+      "symbol": "GLENMARK",
+      "close": 2332.9,
+      "pct_chg": 3.85
+    },
+    {
+      "symbol": "GLOBALE",
+      "close": 11.6,
+      "pct_chg": 1.31
+    },
+    {
+      "symbol": "GOKUL",
+      "close": 40.43,
+      "pct_chg": 0.77
+    },
+    {
+      "symbol": "GOKULAGRO",
+      "close": 243.69,
+      "pct_chg": 0.28
+    },
+    {
+      "symbol": "GOLD1",
+      "close": 130.38,
+      "pct_chg": 2.62
+    },
+    {
+      "symbol": "GOLD360",
+      "close": 151.8,
+      "pct_chg": 2.36
+    },
+    {
+      "symbol": "GOLDADD",
+      "close": 151.56,
+      "pct_chg": 2.48
+    },
+    {
+      "symbol": "GOLDAXIS",
+      "close": 129.78,
+      "pct_chg": 2.49
+    },
+    {
+      "symbol": "GOLDBEES",
+      "close": 128.88,
+      "pct_chg": 2.51
+    },
+    {
+      "symbol": "GOLDBETA",
+      "close": 131.15,
+      "pct_chg": 2.46
+    },
+    {
+      "symbol": "GOLDBND",
+      "close": 155.49,
+      "pct_chg": 2.44
+    },
+    {
+      "symbol": "GOLDCASE",
+      "close": 24.56,
+      "pct_chg": 2.63
+    },
+    {
+      "symbol": "GOLDETF",
+      "close": 151.29,
+      "pct_chg": 2.18
+    },
+    {
+      "symbol": "GOLDIETF",
+      "close": 133.7,
+      "pct_chg": 2.7
+    },
+    {
+      "symbol": "GRADIENTE",
+      "close": 2.9,
+      "pct_chg": 1.4
+    },
+    {
+      "symbol": "GROWWCAPM",
+      "close": 11.42,
+      "pct_chg": 1.42
+    },
+    {
+      "symbol": "GROWWGOLD",
+      "close": 15.21,
+      "pct_chg": 2.49
+    },
+    {
+      "symbol": "GROWWLIQID",
+      "close": 110.41,
+      "pct_chg": 0.01
+    }
+  ],
+  "new_lows": [
+    {
+      "symbol": "ABBOTINDIA",
+      "close": 26120.0,
+      "pct_chg": -1.08
+    },
+    {
+      "symbol": "ABDL",
+      "close": 595.45,
+      "pct_chg": -0.43
+    },
+    {
+      "symbol": "ABLBL",
+      "close": 86.5,
+      "pct_chg": -0.45
+    },
+    {
+      "symbol": "ABSLLIQUID",
+      "close": 999.99,
+      "pct_chg": 0.0
+    },
+    {
+      "symbol": "ACI",
+      "close": 499.95,
+      "pct_chg": -1.2
+    },
+    {
+      "symbol": "ACL",
+      "close": 45.77,
+      "pct_chg": -0.67
+    },
+    {
+      "symbol": "AEGISVOPAK",
+      "close": 266.6,
+      "pct_chg": -1.31
+    },
+    {
+      "symbol": "AHLUCONT",
+      "close": 693.5,
+      "pct_chg": -0.72
+    },
+    {
+      "symbol": "AIAENG",
+      "close": 4357.6,
+      "pct_chg": -0.62
+    },
+    {
+      "symbol": "AJOONI",
+      "close": 3.75,
+      "pct_chg": -0.79
+    },
+    {
+      "symbol": "AKASH",
+      "close": 25.01,
+      "pct_chg": -0.04
+    },
+    {
+      "symbol": "ALGOQUANT",
+      "close": 65.13,
+      "pct_chg": -0.87
+    },
+    {
+      "symbol": "ALLDIGI",
+      "close": 802.85,
+      "pct_chg": -1.18
+    },
+    {
+      "symbol": "ALLTIME",
+      "close": 208.21,
+      "pct_chg": -1.1
+    },
+    {
+      "symbol": "ANGELONE",
+      "close": 289.5,
+      "pct_chg": 0.0
+    },
+    {
+      "symbol": "ANTGRAPHIC",
+      "close": 0.72,
+      "pct_chg": -1.37
+    },
+    {
+      "symbol": "ARIHANTSUP",
+      "close": 247.85,
+      "pct_chg": -0.22
+    },
+    {
+      "symbol": "ARROWGREEN",
+      "close": 692.35,
+      "pct_chg": -3.05
+    },
+    {
+      "symbol": "ARVINDFASN",
+      "close": 428.3,
+      "pct_chg": -0.23
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "close": 2625.2,
+      "pct_chg": -0.21
+    },
+    {
+      "symbol": "ASIANTILES",
+      "close": 45.42,
+      "pct_chg": -1.35
+    },
+    {
+      "symbol": "ASTERDM",
+      "close": 765.65,
+      "pct_chg": -4.32
+    },
+    {
+      "symbol": "AUTOAXLES",
+      "close": 1754.2,
+      "pct_chg": -0.31
+    },
+    {
+      "symbol": "AVG",
+      "close": 190.57,
+      "pct_chg": -2.88
+    },
+    {
+      "symbol": "AWFIS",
+      "close": 263.0,
+      "pct_chg": -1.29
+    },
+    {
+      "symbol": "BAFNAPH",
+      "close": 237.7,
+      "pct_chg": -2.0
+    },
+    {
+      "symbol": "BAJAJST",
+      "close": 349.55,
+      "pct_chg": -1.8
+    },
+    {
+      "symbol": "BALAXI",
+      "close": 22.3,
+      "pct_chg": -6.26
+    },
+    {
+      "symbol": "BAYERCROP",
+      "close": 4066.8,
+      "pct_chg": -0.08
+    },
+    {
+      "symbol": "BBTC",
+      "close": 1436.0,
+      "pct_chg": -0.62
+    },
+    {
+      "symbol": "BCONCEPTS",
+      "close": 155.29,
+      "pct_chg": -2.76
+    },
+    {
+      "symbol": "BFUTILITIE",
+      "close": 528.45,
+      "pct_chg": -0.41
+    },
+    {
+      "symbol": "BGRENERGY",
+      "close": 243.65,
+      "pct_chg": -1.18
+    },
+    {
+      "symbol": "BHARATGEAR",
+      "close": 101.65,
+      "pct_chg": -0.3
+    },
+    {
+      "symbol": "BIGBLOC",
+      "close": 42.6,
+      "pct_chg": -1.82
+    },
+    {
+      "symbol": "BIKAJI",
+      "close": 607.0,
+      "pct_chg": -0.35
+    },
+    {
+      "symbol": "BIOFILCHEM",
+      "close": 30.78,
+      "pct_chg": -0.42
+    },
+    {
+      "symbol": "BIRLAMONEY",
+      "close": 127.22,
+      "pct_chg": -0.16
+    },
+    {
+      "symbol": "BORANA",
+      "close": 308.2,
+      "pct_chg": -0.31
+    },
+    {
+      "symbol": "BORORENEW",
+      "close": 543.0,
+      "pct_chg": -1.22
+    },
+    {
+      "symbol": "BOROSCI",
+      "close": 127.7,
+      "pct_chg": -0.98
+    },
+    {
+      "symbol": "BPL",
+      "close": 49.19,
+      "pct_chg": -2.27
+    },
+    {
+      "symbol": "BSE",
+      "close": 3291.1,
+      "pct_chg": -1.82
+    },
+    {
+      "symbol": "BUTTERFLY",
+      "close": 647.05,
+      "pct_chg": -1.14
+    },
+    {
+      "symbol": "CAMS",
+      "close": 749.25,
+      "pct_chg": -0.67
+    },
+    {
+      "symbol": "CAPACITE",
+      "close": 203.73,
+      "pct_chg": -0.88
+    },
+    {
+      "symbol": "CCL",
+      "close": 1112.4,
+      "pct_chg": -1.08
+    },
+    {
+      "symbol": "CELEBRITY",
+      "close": 6.72,
+      "pct_chg": -2.04
+    },
+    {
+      "symbol": "CESC",
+      "close": 156.61,
+      "pct_chg": -1.91
+    },
+    {
+      "symbol": "CIEINDIA",
+      "close": 403.8,
+      "pct_chg": -0.7
+    },
+    {
+      "symbol": "CLEANMAX",
+      "close": 1220.1,
+      "pct_chg": -1.91
+    },
+    {
+      "symbol": "COASTCORP",
+      "close": 40.57,
+      "pct_chg": -3.5
+    },
+    {
+      "symbol": "COCKERILL",
+      "close": 7834.0,
+      "pct_chg": -2.2
+    },
+    {
+      "symbol": "CONSOFINVT",
+      "close": 271.3,
+      "pct_chg": -3.95
+    },
+    {
+      "symbol": "CPL",
+      "close": 67.77,
+      "pct_chg": -0.43
+    },
+    {
+      "symbol": "CRIZAC",
+      "close": 171.34,
+      "pct_chg": -0.16
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "close": 5205.0,
+      "pct_chg": -0.29
+    },
+    {
+      "symbol": "CYBERTECH",
+      "close": 133.05,
+      "pct_chg": -1.84
+    },
+    {
+      "symbol": "DAMODARIND",
+      "close": 27.49,
+      "pct_chg": -0.4
+    },
+    {
+      "symbol": "DBCORP",
+      "close": 206.31,
+      "pct_chg": -0.54
+    },
+    {
+      "symbol": "DBEIL",
+      "close": 6.66,
+      "pct_chg": -1.19
+    },
+    {
+      "symbol": "DBSTOCKBRO",
+      "close": 31.77,
+      "pct_chg": -2.19
+    },
+    {
+      "symbol": "DCM",
+      "close": 79.41,
+      "pct_chg": -2.08
+    },
+    {
+      "symbol": "DEEDEV",
+      "close": 622.25,
+      "pct_chg": -3.47
+    },
+    {
+      "symbol": "DELPHIFX",
+      "close": 6.55,
+      "pct_chg": -1.21
+    },
+    {
+      "symbol": "DELTACORP",
+      "close": 59.52,
+      "pct_chg": -0.27
+    },
+    {
+      "symbol": "DEVIT",
+      "close": 24.66,
+      "pct_chg": -1.24
+    },
+    {
+      "symbol": "DISAQ",
+      "close": 11508.0,
+      "pct_chg": -2.5
+    },
+    {
+      "symbol": "DJML",
+      "close": 101.95,
+      "pct_chg": -2.83
+    },
+    {
+      "symbol": "DPWIRES",
+      "close": 158.07,
+      "pct_chg": -1.25
+    },
+    {
+      "symbol": "DRCSYSTEMS",
+      "close": 12.76,
+      "pct_chg": -0.55
+    },
+    {
+      "symbol": "DSSL",
+      "close": 1093.7,
+      "pct_chg": -2.02
+    },
+    {
+      "symbol": "EASEMYTRIP",
+      "close": 6.09,
+      "pct_chg": -0.33
+    },
+    {
+      "symbol": "ECOSMOBLTY",
+      "close": 112.31,
+      "pct_chg": -0.12
+    },
+    {
+      "symbol": "EIFFL",
+      "close": 251.8,
+      "pct_chg": -1.76
+    },
+    {
+      "symbol": "EPACK",
+      "close": 203.06,
+      "pct_chg": -1.49
+    },
+    {
+      "symbol": "ERIS",
+      "close": 1326.0,
+      "pct_chg": -1.65
+    },
+    {
+      "symbol": "EUREKAFORB",
+      "close": 416.2,
+      "pct_chg": -0.87
+    },
+    {
+      "symbol": "EUROPRATIK",
+      "close": 265.75,
+      "pct_chg": -0.9
+    },
+    {
+      "symbol": "EXCELSOFT",
+      "close": 70.88,
+      "pct_chg": -0.3
+    },
+    {
+      "symbol": "FACT",
+      "close": 772.95,
+      "pct_chg": -1.8
+    },
+    {
+      "symbol": "FAIRCHEMOR",
+      "close": 647.05,
+      "pct_chg": -2.0
+    },
+    {
+      "symbol": "FIBERWEB",
+      "close": 26.11,
+      "pct_chg": -1.21
+    },
+    {
+      "symbol": "FIEMIND",
+      "close": 2190.6,
+      "pct_chg": -2.25
+    },
+    {
+      "symbol": "FILATFASH",
+      "close": 0.18,
+      "pct_chg": 0.0
+    },
+    {
+      "symbol": "FINOPB",
+      "close": 146.16,
+      "pct_chg": -0.59
+    },
+    {
+      "symbol": "FLEXITUFF",
+      "close": 2.75,
+      "pct_chg": -2.14
+    },
+    {
+      "symbol": "FMNL",
+      "close": 8.49,
+      "pct_chg": -0.24
+    },
+    {
+      "symbol": "GAUDIUMIVF",
+      "close": 113.68,
+      "pct_chg": -2.0
+    },
+    {
+      "symbol": "GLOSTERLTD",
+      "close": 591.35,
+      "pct_chg": -0.78
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "close": 100.41,
+      "pct_chg": -2.04
+    },
+    {
+      "symbol": "GPTHEALTH",
+      "close": 151.41,
+      "pct_chg": -1.72
+    },
+    {
+      "symbol": "GRAUWEIL",
+      "close": 66.25,
+      "pct_chg": -0.51
+    },
+    {
+      "symbol": "GREAVESCOT",
+      "close": 191.0,
+      "pct_chg": -2.07
+    },
+    {
+      "symbol": "GREENPANEL",
+      "close": 160.26,
+      "pct_chg": -0.25
+    },
+    {
+      "symbol": "GRMOVER",
+      "close": 86.53,
+      "pct_chg": -2.55
+    },
+    {
+      "symbol": "GROWWHOSPI",
+      "close": 51.88,
+      "pct_chg": -0.59
+    },
+    {
+      "symbol": "GROWWPSE",
+      "close": 97.63,
+      "pct_chg": -0.61
+    },
+    {
+      "symbol": "GVKPIL",
+      "close": 2.28,
+      "pct_chg": -1.72
+    },
+    {
+      "symbol": "GVPIL",
+      "close": 666.7,
+      "pct_chg": -2.67
+    }
+  ],
   "up_4pct": [
     {
-      "symbol": "CRSL",
-      "close": 2.58,
+      "symbol": "KRONOX",
+      "close": 186.19,
+      "pct_chg": 20.0
+    },
+    {
+      "symbol": "SAMBANDAM",
+      "close": 126.0,
+      "pct_chg": 20.0
+    },
+    {
+      "symbol": "MPDL",
+      "close": 34.32,
       "pct_chg": 20.0
     },
     {
       "symbol": "MYSORPETRO",
-      "close": 137.91,
-      "pct_chg": 19.99
+      "close": 165.49,
+      "pct_chg": 20.0
     },
     {
-      "symbol": "TECILCHEM",
-      "close": 10.24,
-      "pct_chg": 19.91
-    },
-    {
-      "symbol": "ORIENTHOT",
-      "close": 139.5,
-      "pct_chg": 15.09
-    },
-    {
-      "symbol": "EXCELINDUS",
-      "close": 1133.25,
-      "pct_chg": 15.03
-    },
-    {
-      "symbol": "KAMANWALA",
-      "close": 18.63,
-      "pct_chg": 14.58
-    },
-    {
-      "symbol": "KOHINOOR",
-      "close": 31.27,
-      "pct_chg": 14.04
-    },
-    {
-      "symbol": "ZAGGLE",
-      "close": 186.04,
-      "pct_chg": 12.15
-    },
-    {
-      "symbol": "AHLADA",
-      "close": 40.82,
-      "pct_chg": 12.05
-    },
-    {
-      "symbol": "SONAMLTD",
-      "close": 67.19,
-      "pct_chg": 11.41
-    },
-    {
-      "symbol": "SHERVANI",
-      "close": 342.15,
-      "pct_chg": 11.25
-    },
-    {
-      "symbol": "GFLLIMITED",
-      "close": 56.76,
-      "pct_chg": 10.82
-    },
-    {
-      "symbol": "LAXMICOT",
-      "close": 14.89,
-      "pct_chg": 10.62
-    },
-    {
-      "symbol": "NILKAMAL",
-      "close": 2033.8,
-      "pct_chg": 10.13
-    },
-    {
-      "symbol": "SALSTEEL",
-      "close": 79.22,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "MILKYMIST",
-      "close": 199.65,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "MANBRO",
-      "close": 58.41,
-      "pct_chg": 10.0
-    },
-    {
-      "symbol": "SIEL",
-      "close": 42.42,
-      "pct_chg": 9.98
-    },
-    {
-      "symbol": "PERMAGN",
-      "close": 882.2,
-      "pct_chg": 9.62
-    },
-    {
-      "symbol": "BAJAJHIND",
-      "close": 20.38,
-      "pct_chg": 9.57
-    },
-    {
-      "symbol": "TPHQ",
-      "close": 0.69,
-      "pct_chg": 9.52
-    },
-    {
-      "symbol": "RPEL",
-      "close": 1637.4,
-      "pct_chg": 9.51
-    },
-    {
-      "symbol": "HEALTHX",
-      "close": 313.7,
-      "pct_chg": 8.73
-    },
-    {
-      "symbol": "AVROIND",
-      "close": 9.54,
-      "pct_chg": 8.41
-    },
-    {
-      "symbol": "DCMSIL",
-      "close": 74.58,
-      "pct_chg": 8.18
-    },
-    {
-      "symbol": "DWARKESH",
-      "close": 48.28,
-      "pct_chg": 8.15
-    },
-    {
-      "symbol": "BLUSPRING",
-      "close": 119.86,
-      "pct_chg": 7.78
-    },
-    {
-      "symbol": "TIJARIA",
-      "close": 6.12,
-      "pct_chg": 7.75
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "close": 1404.05,
-      "pct_chg": 7.53
-    },
-    {
-      "symbol": "PONNIERODE",
-      "close": 384.15,
-      "pct_chg": 7.41
-    },
-    {
-      "symbol": "MERCURYEV",
-      "close": 37.63,
-      "pct_chg": 7.12
-    },
-    {
-      "symbol": "SAKHTISUG",
-      "close": 19.7,
-      "pct_chg": 7.12
-    },
-    {
-      "symbol": "ABINFRA",
-      "close": 13.45,
-      "pct_chg": 7.0
-    },
-    {
-      "symbol": "JAYSREETEA",
-      "close": 93.88,
-      "pct_chg": 6.86
-    },
-    {
-      "symbol": "KSL",
-      "close": 875.55,
-      "pct_chg": 6.6
-    },
-    {
-      "symbol": "KANCOTEA",
-      "close": 51.64,
-      "pct_chg": 6.52
-    },
-    {
-      "symbol": "VIYASH",
-      "close": 271.4,
-      "pct_chg": 6.45
-    },
-    {
-      "symbol": "DLINKINDIA",
-      "close": 445.75,
-      "pct_chg": 6.42
-    },
-    {
-      "symbol": "YUKEN",
-      "close": 937.9,
-      "pct_chg": 6.34
-    },
-    {
-      "symbol": "DCMSRIND",
-      "close": 49.89,
-      "pct_chg": 6.28
+      "symbol": "KJMCFIN",
+      "close": 66.42,
+      "pct_chg": 20.0
     },
     {
       "symbol": "MINALIND",
-      "close": 2.21,
-      "pct_chg": 6.25
+      "close": 2.65,
+      "pct_chg": 19.91
     },
     {
-      "symbol": "WATERBASE",
-      "close": 49.21,
-      "pct_chg": 6.24
+      "symbol": "CRSL",
+      "close": 3.09,
+      "pct_chg": 19.77
     },
     {
-      "symbol": "TFCILTD",
-      "close": 131.41,
-      "pct_chg": 6.23
+      "symbol": "VIRTUALG",
+      "close": 0.51,
+      "pct_chg": 18.6
     },
     {
-      "symbol": "AUSTENG",
-      "close": 121.3,
-      "pct_chg": 6.12
+      "symbol": "BALRAMCHIN",
+      "close": 767.1,
+      "pct_chg": 17.87
     },
     {
-      "symbol": "PREMIERPOL",
-      "close": 91.61,
-      "pct_chg": 6.07
+      "symbol": "BANARISUG",
+      "close": 4240.7,
+      "pct_chg": 17.23
     },
     {
-      "symbol": "WANBURY",
-      "close": 269.55,
-      "pct_chg": 6.02
+      "symbol": "SOLARA",
+      "close": 640.0,
+      "pct_chg": 16.35
     },
     {
-      "symbol": "WPIL",
-      "close": 452.0,
-      "pct_chg": 6.02
+      "symbol": "SOMICONVEY",
+      "close": 100.07,
+      "pct_chg": 15.54
     },
     {
-      "symbol": "DBOL",
-      "close": 129.26,
-      "pct_chg": 5.96
+      "symbol": "KWIL",
+      "close": 43.47,
+      "pct_chg": 15.27
     },
     {
-      "symbol": "MARSONS",
-      "close": 108.37,
-      "pct_chg": 5.92
+      "symbol": "INDOBORAX",
+      "close": 498.15,
+      "pct_chg": 14.82
     },
     {
-      "symbol": "SINGERIND",
-      "close": 83.36,
-      "pct_chg": 5.92
+      "symbol": "DWARKESH",
+      "close": 55.38,
+      "pct_chg": 14.71
     },
     {
-      "symbol": "PRAVEG",
-      "close": 267.5,
-      "pct_chg": 5.75
+      "symbol": "BAJAJHIND",
+      "close": 23.33,
+      "pct_chg": 14.47
     },
     {
-      "symbol": "KALYANIFRG",
-      "close": 675.55,
-      "pct_chg": 5.69
+      "symbol": "PACIFICI",
+      "close": 150.98,
+      "pct_chg": 13.05
     },
     {
-      "symbol": "NIRAJISPAT",
-      "close": 224.0,
-      "pct_chg": 5.66
+      "symbol": "CGVAK",
+      "close": 158.58,
+      "pct_chg": 12.68
     },
     {
-      "symbol": "DOLATALGO",
-      "close": 75.13,
-      "pct_chg": 5.61
+      "symbol": "SUVEN",
+      "close": 373.6,
+      "pct_chg": 12.34
     },
     {
-      "symbol": "MAKERSL",
-      "close": 168.72,
-      "pct_chg": 5.56
-    },
-    {
-      "symbol": "RAJSREESUG",
-      "close": 36.9,
-      "pct_chg": 5.55
-    },
-    {
-      "symbol": "ISFT",
-      "close": 84.76,
-      "pct_chg": 5.54
-    },
-    {
-      "symbol": "KIRIINDUS",
-      "close": 431.3,
-      "pct_chg": 5.47
-    },
-    {
-      "symbol": "JNPR",
-      "close": 253.71,
-      "pct_chg": 5.45
-    },
-    {
-      "symbol": "GLAXO",
-      "close": 3032.4,
-      "pct_chg": 5.39
-    },
-    {
-      "symbol": "ARIHANTCAP",
-      "close": 77.68,
-      "pct_chg": 5.3
+      "symbol": "UTTAMSUGAR",
+      "close": 336.22,
+      "pct_chg": 11.7
     },
     {
       "symbol": "SWISSMLTRY",
-      "close": 14.75,
-      "pct_chg": 5.28
+      "close": 16.44,
+      "pct_chg": 11.46
     },
     {
-      "symbol": "YOGI",
-      "close": 164.0,
-      "pct_chg": 5.25
+      "symbol": "KOHINOOR",
+      "close": 34.81,
+      "pct_chg": 11.32
     },
     {
-      "symbol": "RRECL",
-      "close": 143.5,
-      "pct_chg": 5.24
+      "symbol": "UGARSUGAR",
+      "close": 56.07,
+      "pct_chg": 11.23
     },
     {
-      "symbol": "GOPAL",
-      "close": 288.45,
-      "pct_chg": 5.22
+      "symbol": "KOTARISUG",
+      "close": 30.25,
+      "pct_chg": 11.13
     },
     {
-      "symbol": "SIGIND",
-      "close": 70.32,
-      "pct_chg": 5.19
+      "symbol": "RANASUG",
+      "close": 15.21,
+      "pct_chg": 10.54
     },
     {
-      "symbol": "DHABRIYA",
-      "close": 587.0,
-      "pct_chg": 5.19
+      "symbol": "KAYA",
+      "close": 374.1,
+      "pct_chg": 10.53
     },
     {
-      "symbol": "IMAGICAA",
-      "close": 48.52,
-      "pct_chg": 5.16
+      "symbol": "SAKHTISUG",
+      "close": 21.77,
+      "pct_chg": 10.51
     },
     {
-      "symbol": "JUBLCPL",
-      "close": 2312.3,
-      "pct_chg": 5.15
+      "symbol": "HUBTOWN",
+      "close": 198.81,
+      "pct_chg": 10.38
     },
     {
-      "symbol": "EMPIND",
-      "close": 1173.3,
-      "pct_chg": 5.12
+      "symbol": "PVP",
+      "close": 43.15,
+      "pct_chg": 10.27
     },
     {
-      "symbol": "WINDLAS",
-      "close": 964.95,
-      "pct_chg": 5.12
+      "symbol": "CORDELIA",
+      "close": 907.75,
+      "pct_chg": 10.0
     },
     {
-      "symbol": "EMSLIMITED",
-      "close": 394.95,
-      "pct_chg": 5.11
+      "symbol": "MANGLMCEM",
+      "close": 981.85,
+      "pct_chg": 9.73
     },
     {
-      "symbol": "KANPRPLA",
-      "close": 256.59,
-      "pct_chg": 5.05
+      "symbol": "PONNIERODE",
+      "close": 421.35,
+      "pct_chg": 9.68
+    },
+    {
+      "symbol": "AVADHSUGAR",
+      "close": 814.7,
+      "pct_chg": 9.52
+    },
+    {
+      "symbol": "VERANDA",
+      "close": 255.9,
+      "pct_chg": 9.5
+    },
+    {
+      "symbol": "RAJSREESUG",
+      "close": 40.38,
+      "pct_chg": 9.43
+    },
+    {
+      "symbol": "MOREPENLAB",
+      "close": 96.47,
+      "pct_chg": 9.1
+    },
+    {
+      "symbol": "KCP",
+      "close": 165.08,
+      "pct_chg": 9.04
+    },
+    {
+      "symbol": "NETWORK18",
+      "close": 30.59,
+      "pct_chg": 8.98
+    },
+    {
+      "symbol": "INDORAMA",
+      "close": 61.29,
+      "pct_chg": 8.88
+    },
+    {
+      "symbol": "MAWANASUG",
+      "close": 140.1,
+      "pct_chg": 8.84
+    },
+    {
+      "symbol": "ZUARIIND",
+      "close": 285.15,
+      "pct_chg": 8.79
+    },
+    {
+      "symbol": "MLKFOOD",
+      "close": 87.01,
+      "pct_chg": 8.63
+    },
+    {
+      "symbol": "TIRUMALCHM",
+      "close": 156.41,
+      "pct_chg": 8.41
+    },
+    {
+      "symbol": "ORIENTCER",
+      "close": 46.73,
+      "pct_chg": 8.37
+    },
+    {
+      "symbol": "KRYSTAL",
+      "close": 681.35,
+      "pct_chg": 8.25
+    },
+    {
+      "symbol": "KMSUGAR",
+      "close": 35.3,
+      "pct_chg": 8.18
+    },
+    {
+      "symbol": "GENUSPOWER",
+      "close": 334.25,
+      "pct_chg": 8.07
+    },
+    {
+      "symbol": "JNPR",
+      "close": 273.76,
+      "pct_chg": 7.9
+    },
+    {
+      "symbol": "RENUKA",
+      "close": 26.13,
+      "pct_chg": 7.8
+    },
+    {
+      "symbol": "DHAMPURSUG",
+      "close": 189.76,
+      "pct_chg": 7.71
+    },
+    {
+      "symbol": "EPL",
+      "close": 270.1,
+      "pct_chg": 7.7
+    },
+    {
+      "symbol": "CURAA",
+      "close": 77.47,
+      "pct_chg": 7.6
+    },
+    {
+      "symbol": "LEENEE",
+      "close": 8.36,
+      "pct_chg": 7.59
+    },
+    {
+      "symbol": "RATNAVEER",
+      "close": 269.24,
+      "pct_chg": 7.52
+    },
+    {
+      "symbol": "KRISHIVAL",
+      "close": 393.55,
+      "pct_chg": 7.45
+    },
+    {
+      "symbol": "JAYSREETEA",
+      "close": 100.81,
+      "pct_chg": 7.38
+    },
+    {
+      "symbol": "MEDICAPQ",
+      "close": 25.28,
+      "pct_chg": 7.3
+    },
+    {
+      "symbol": "SUBEXLTD",
+      "close": 17.08,
+      "pct_chg": 7.29
+    },
+    {
+      "symbol": "AMAL",
+      "close": 793.6,
+      "pct_chg": 7.22
+    },
+    {
+      "symbol": "HCC",
+      "close": 21.22,
+      "pct_chg": 7.01
+    },
+    {
+      "symbol": "NETWEB",
+      "close": 5419.8,
+      "pct_chg": 7.0
+    },
+    {
+      "symbol": "KIRIINDUS",
+      "close": 461.3,
+      "pct_chg": 6.96
+    },
+    {
+      "symbol": "FINKURVE",
+      "close": 76.32,
+      "pct_chg": 6.95
+    },
+    {
+      "symbol": "GENCON",
+      "close": 41.06,
+      "pct_chg": 6.95
+    },
+    {
+      "symbol": "MAGADSUGAR",
+      "close": 620.6,
+      "pct_chg": 6.9
+    },
+    {
+      "symbol": "SAMBHV",
+      "close": 131.38,
+      "pct_chg": 6.89
     },
     {
       "symbol": "DALMIASUG",
+      "close": 508.1,
+      "pct_chg": 6.84
+    },
+    {
+      "symbol": "MANALIPETC",
+      "close": 77.73,
+      "pct_chg": 6.77
+    },
+    {
+      "symbol": "BIRLAPREC",
+      "close": 39.11,
+      "pct_chg": 6.77
+    },
+    {
+      "symbol": "MMTC",
+      "close": 66.27,
+      "pct_chg": 6.63
+    },
+    {
+      "symbol": "MEDICAMEQ",
+      "close": 243.75,
+      "pct_chg": 6.57
+    },
+    {
+      "symbol": "PRABHA",
+      "close": 212.89,
+      "pct_chg": 6.56
+    },
+    {
+      "symbol": "NIBE",
+      "close": 1503.6,
+      "pct_chg": 6.56
+    },
+    {
+      "symbol": "CANTABIL",
+      "close": 247.31,
+      "pct_chg": 6.54
+    },
+    {
+      "symbol": "BRIGADE",
+      "close": 625.75,
+      "pct_chg": 6.47
+    },
+    {
+      "symbol": "MARALOVER",
+      "close": 55.37,
+      "pct_chg": 6.44
+    },
+    {
+      "symbol": "COHANCE",
       "close": 475.55,
-      "pct_chg": 5.05
+      "pct_chg": 6.42
     },
     {
-      "symbol": "PRSMJOHNSN",
-      "close": 110.27,
-      "pct_chg": 5.03
+      "symbol": "MEESHO",
+      "close": 209.51,
+      "pct_chg": 6.42
     },
     {
-      "symbol": "MOLDTECH",
-      "close": 180.07,
-      "pct_chg": 5.0
+      "symbol": "ROLEXRINGS",
+      "close": 185.82,
+      "pct_chg": 6.37
     },
     {
-      "symbol": "BLISSGVS",
-      "close": 573.8,
-      "pct_chg": 5.0
+      "symbol": "GILLANDERS",
+      "close": 94.61,
+      "pct_chg": 6.24
     },
     {
-      "symbol": "CORDSCABLE",
-      "close": 235.98,
-      "pct_chg": 5.0
+      "symbol": "INDOWIND",
+      "close": 9.06,
+      "pct_chg": 6.21
     },
     {
-      "symbol": "CTE",
-      "close": 44.94,
-      "pct_chg": 5.0
+      "symbol": "LANCORHOL",
+      "close": 28.91,
+      "pct_chg": 6.21
     },
     {
-      "symbol": "MENONBE",
-      "close": 265.87,
-      "pct_chg": 5.0
+      "symbol": "ZAGGLE",
+      "close": 197.56,
+      "pct_chg": 6.19
     },
     {
-      "symbol": "VIVIMEDLAB",
-      "close": 5.67,
-      "pct_chg": 5.0
+      "symbol": "EBGNG",
+      "close": 624.75,
+      "pct_chg": 6.18
     },
     {
-      "symbol": "TRANSPEK",
-      "close": 1189.4,
-      "pct_chg": 5.0
+      "symbol": "HBLENGINE",
+      "close": 712.9,
+      "pct_chg": 6.11
     },
     {
-      "symbol": "SIGMAADV",
-      "close": 691.35,
-      "pct_chg": 5.0
+      "symbol": "KROSS",
+      "close": 210.36,
+      "pct_chg": 6.1
     },
     {
-      "symbol": "ZENITHEXPO",
-      "close": 207.32,
-      "pct_chg": 5.0
+      "symbol": "MFML",
+      "close": 19.66,
+      "pct_chg": 5.98
     },
     {
-      "symbol": "TRANSWORLD",
-      "close": 164.97,
-      "pct_chg": 5.0
+      "symbol": "DCMSRIND",
+      "close": 52.84,
+      "pct_chg": 5.91
     },
     {
-      "symbol": "SANGINITA",
-      "close": 62.5,
-      "pct_chg": 4.99
+      "symbol": "LKPSEC",
+      "close": 17.2,
+      "pct_chg": 5.85
     },
     {
-      "symbol": "STYLEBAAZA",
-      "close": 422.75,
-      "pct_chg": 4.99
+      "symbol": "FUSION",
+      "close": 203.32,
+      "pct_chg": 5.85
     },
     {
-      "symbol": "ICICIAMC",
-      "close": 3260.9,
-      "pct_chg": 4.99
+      "symbol": "STYL",
+      "close": 401.35,
+      "pct_chg": 5.76
     },
     {
-      "symbol": "MCLEODRUSS",
-      "close": 47.58,
-      "pct_chg": 4.99
+      "symbol": "SHYAMTEL",
+      "close": 15.0,
+      "pct_chg": 5.71
     },
     {
-      "symbol": "SHIVALIK",
-      "close": 256.11,
-      "pct_chg": 4.98
+      "symbol": "ZEEL",
+      "close": 108.03,
+      "pct_chg": 5.68
     },
     {
-      "symbol": "CALSOFT",
-      "close": 28.47,
-      "pct_chg": 4.98
+      "symbol": "KABRAEXTRU",
+      "close": 529.1,
+      "pct_chg": 5.65
     },
     {
-      "symbol": "DSKULKARNI",
-      "close": 15.38,
-      "pct_chg": 4.98
+      "symbol": "GOODLUCK",
+      "close": 1439.4,
+      "pct_chg": 5.58
     },
     {
-      "symbol": "EBIX",
-      "close": 17.91,
-      "pct_chg": 4.98
+      "symbol": "INCREDIBLE",
+      "close": 33.77,
+      "pct_chg": 5.56
     },
     {
-      "symbol": "SKFINDUS",
-      "close": 2800.4,
-      "pct_chg": 4.98
+      "symbol": "GAEL",
+      "close": 183.36,
+      "pct_chg": 5.48
     },
     {
-      "symbol": "SHEMAROO",
-      "close": 133.32,
-      "pct_chg": 4.96
+      "symbol": "AMARJOTHI",
+      "close": 163.61,
+      "pct_chg": 5.45
     },
     {
-      "symbol": "MODISONLTD",
-      "close": 392.35,
-      "pct_chg": 4.93
+      "symbol": "MOHITE",
+      "close": 2.52,
+      "pct_chg": 5.44
     },
     {
-      "symbol": "KAYNES",
-      "close": 3823.3,
-      "pct_chg": 4.92
-    },
-    {
-      "symbol": "COMPUSOFT",
-      "close": 13.87,
-      "pct_chg": 4.92
-    },
-    {
-      "symbol": "AKSHOPTFBR",
-      "close": 7.68,
-      "pct_chg": 4.92
-    },
-    {
-      "symbol": "EASTSILK",
-      "close": 61.9,
-      "pct_chg": 4.92
+      "symbol": "CRAMC",
+      "close": 264.3,
+      "pct_chg": 5.4
     }
   ],
   "down_4pct": [
     {
-      "symbol": "KJMCFIN",
-      "close": 55.35,
-      "pct_chg": -10.71
+      "symbol": "TECILCHEM",
+      "close": 9.14,
+      "pct_chg": -10.74
     },
     {
-      "symbol": "BI",
-      "close": 91.66,
-      "pct_chg": -9.59
+      "symbol": "VHLTD",
+      "close": 119.13,
+      "pct_chg": -10.5
     },
     {
-      "symbol": "YASHO",
-      "close": 4470.8,
-      "pct_chg": -9.05
+      "symbol": "KAMANWALA",
+      "close": 16.68,
+      "pct_chg": -10.47
     },
     {
-      "symbol": "MODTHREAD",
-      "close": 52.28,
-      "pct_chg": -9.03
+      "symbol": "BTML",
+      "close": 7.92,
+      "pct_chg": -9.17
     },
     {
-      "symbol": "FINKURVE",
-      "close": 71.36,
-      "pct_chg": -8.74
+      "symbol": "ADDIND",
+      "close": 80.0,
+      "pct_chg": -8.05
     },
     {
-      "symbol": "AAKASH",
-      "close": 8.45,
-      "pct_chg": -7.45
+      "symbol": "NKIND",
+      "close": 56.6,
+      "pct_chg": -8.04
     },
     {
-      "symbol": "PAKKA",
-      "close": 88.54,
-      "pct_chg": -7.28
+      "symbol": "GCSL",
+      "close": 482.05,
+      "pct_chg": -7.6
     },
     {
-      "symbol": "INDSWFTLAB",
-      "close": 322.06,
-      "pct_chg": -7.15
+      "symbol": "MILKYMIST",
+      "close": 184.89,
+      "pct_chg": -7.39
     },
     {
-      "symbol": "DEEPINDS",
-      "close": 667.35,
-      "pct_chg": -7.05
+      "symbol": "WEL",
+      "close": 136.04,
+      "pct_chg": -6.99
     },
     {
-      "symbol": "CGVAK",
-      "close": 140.73,
-      "pct_chg": -6.95
+      "symbol": "SINTERCOM",
+      "close": 79.39,
+      "pct_chg": -6.6
     },
     {
-      "symbol": "ANTELOPUS",
-      "close": 798.35,
-      "pct_chg": -6.79
+      "symbol": "CENTEXT",
+      "close": 20.64,
+      "pct_chg": -6.52
     },
     {
-      "symbol": "MOLBIO",
-      "close": 1036.65,
-      "pct_chg": -6.68
+      "symbol": "ATAM",
+      "close": 55.53,
+      "pct_chg": -6.45
     },
     {
-      "symbol": "DAVANGERE",
-      "close": 2.99,
-      "pct_chg": -6.27
+      "symbol": "SUPTANERY",
+      "close": 7.31,
+      "pct_chg": -6.4
     },
     {
-      "symbol": "PRECWIRE",
-      "close": 429.7,
-      "pct_chg": -6.22
+      "symbol": "BALAXI",
+      "close": 22.3,
+      "pct_chg": -6.26
     },
     {
-      "symbol": "MEDICAPQ",
-      "close": 23.56,
-      "pct_chg": -5.95
+      "symbol": "LAXMICOT",
+      "close": 13.96,
+      "pct_chg": -6.25
     },
     {
-      "symbol": "BHARATSE",
-      "close": 227.19,
-      "pct_chg": -5.7
+      "symbol": "HSCL",
+      "close": 704.2,
+      "pct_chg": -6.14
     },
     {
-      "symbol": "HATSUN",
-      "close": 930.3,
-      "pct_chg": -5.59
+      "symbol": "DREDGECORP",
+      "close": 1118.3,
+      "pct_chg": -5.96
     },
     {
-      "symbol": "NETWEB",
-      "close": 5065.0,
+      "symbol": "GLOBECIVIL",
+      "close": 42.34,
+      "pct_chg": -5.85
+    },
+    {
+      "symbol": "SHREEJISPG",
+      "close": 613.35,
+      "pct_chg": -5.56
+    },
+    {
+      "symbol": "AHLADA",
+      "close": 38.59,
+      "pct_chg": -5.46
+    },
+    {
+      "symbol": "DHABRIYA",
+      "close": 555.25,
       "pct_chg": -5.41
     },
     {
-      "symbol": "MALUPAPER",
-      "close": 30.82,
-      "pct_chg": -5.4
+      "symbol": "TIJARIA",
+      "close": 5.79,
+      "pct_chg": -5.39
     },
     {
-      "symbol": "KOKUYOCMLN",
-      "close": 80.24,
-      "pct_chg": -5.34
+      "symbol": "XTRANET",
+      "close": 160.18,
+      "pct_chg": -5.28
     },
     {
-      "symbol": "SUYOG",
-      "close": 759.25,
+      "symbol": "KEEPLEARN",
+      "close": 1.81,
       "pct_chg": -5.24
     },
     {
-      "symbol": "METROGLOBL",
-      "close": 142.27,
+      "symbol": "HINDADH",
+      "close": 351.0,
       "pct_chg": -5.12
     },
     {
-      "symbol": "RRIL",
-      "close": 17.03,
-      "pct_chg": -5.07
-    },
-    {
-      "symbol": "BRIGHTBR",
-      "close": 242.35,
-      "pct_chg": -5.01
-    },
-    {
-      "symbol": "SHALPAINTS",
-      "close": 82.54,
-      "pct_chg": -5.0
-    },
-    {
-      "symbol": "NATIONSTD",
-      "close": 127.3,
-      "pct_chg": -5.0
-    },
-    {
-      "symbol": "E2E",
-      "close": 631.35,
-      "pct_chg": -5.0
-    },
-    {
       "symbol": "UEL",
-      "close": 200.8,
+      "close": 190.76,
       "pct_chg": -5.0
     },
     {
-      "symbol": "UNIVASTU",
-      "close": 168.05,
+      "symbol": "INDOMIM",
+      "close": 919.55,
       "pct_chg": -5.0
     },
     {
-      "symbol": "SUMEETINDS",
-      "close": 12.75,
+      "symbol": "SUNDRMBRAK",
+      "close": 808.55,
+      "pct_chg": -5.0
+    },
+    {
+      "symbol": "ESSENTIA",
+      "close": 1.14,
+      "pct_chg": -5.0
+    },
+    {
+      "symbol": "GSLSU",
+      "close": 34.78,
+      "pct_chg": -5.0
+    },
+    {
+      "symbol": "SIEL",
+      "close": 40.3,
+      "pct_chg": -5.0
+    },
+    {
+      "symbol": "INDOTHAI",
+      "close": 62.8,
+      "pct_chg": -4.99
+    },
+    {
+      "symbol": "CALSOFT",
+      "close": 27.05,
       "pct_chg": -4.99
     },
     {
       "symbol": "ONIXSOLAR",
-      "close": 338.85,
+      "close": 321.95,
       "pct_chg": -4.99
     },
     {
-      "symbol": "INDOTHAI",
-      "close": 66.1,
+      "symbol": "SANGINITA",
+      "close": 59.38,
       "pct_chg": -4.99
     },
     {
-      "symbol": "ABMINTLLTD",
-      "close": 50.73,
+      "symbol": "RSDFIN",
+      "close": 91.53,
+      "pct_chg": -4.99
+    },
+    {
+      "symbol": "SVGLOBAL",
+      "close": 123.53,
       "pct_chg": -4.98
     },
     {
       "symbol": "ABANSENT",
-      "close": 28.79,
-      "pct_chg": -4.98
-    },
-    {
-      "symbol": "KOTYARK",
-      "close": 34.55,
-      "pct_chg": -4.98
-    },
-    {
-      "symbol": "KEEPLEARN",
-      "close": 1.91,
-      "pct_chg": -4.98
-    },
-    {
-      "symbol": "3IINFOLTD",
-      "close": 23.15,
+      "close": 27.36,
       "pct_chg": -4.97
-    },
-    {
-      "symbol": "RBA",
-      "close": 101.06,
-      "pct_chg": -4.97
-    },
-    {
-      "symbol": "POWERICA",
-      "close": 532.85,
-      "pct_chg": -4.96
     },
     {
       "symbol": "BURNPUR",
-      "close": 15.72,
+      "close": 14.94,
       "pct_chg": -4.96
     },
     {
-      "symbol": "CESC",
-      "close": 159.66,
+      "symbol": "AKSHOPTFBR",
+      "close": 7.3,
       "pct_chg": -4.95
     },
     {
-      "symbol": "GTECJAINX",
-      "close": 29.0,
+      "symbol": "KSR",
+      "close": 27.42,
       "pct_chg": -4.92
     },
     {
-      "symbol": "ADROITINFO",
-      "close": 9.85,
-      "pct_chg": -4.92
-    },
-    {
-      "symbol": "WEBELSOLAR",
-      "close": 82.72,
-      "pct_chg": -4.84
-    },
-    {
-      "symbol": "KUSUMGAR",
-      "close": 566.35,
-      "pct_chg": -4.82
-    },
-    {
-      "symbol": "PLAZACABLE",
-      "close": 49.86,
-      "pct_chg": -4.81
-    },
-    {
-      "symbol": "ACUTAAS",
-      "close": 3228.9,
-      "pct_chg": -4.79
-    },
-    {
-      "symbol": "RSDFIN",
-      "close": 96.34,
-      "pct_chg": -4.77
-    },
-    {
-      "symbol": "SHANTIGOLD",
-      "close": 241.75,
-      "pct_chg": -4.77
-    },
-    {
-      "symbol": "UNIVCABLES",
-      "close": 1662.0,
-      "pct_chg": -4.76
-    },
-    {
-      "symbol": "ESSENTIA",
-      "close": 1.2,
-      "pct_chg": -4.76
-    },
-    {
-      "symbol": "ZSARACOM",
-      "close": 12454.0,
-      "pct_chg": -4.76
-    },
-    {
-      "symbol": "LANCER",
-      "close": 10.4,
-      "pct_chg": -4.76
-    },
-    {
-      "symbol": "RUDRA",
-      "close": 21.89,
-      "pct_chg": -4.7
-    },
-    {
-      "symbol": "TURTLEMINT",
-      "close": 138.92,
-      "pct_chg": -4.69
-    },
-    {
-      "symbol": "HINDCON",
-      "close": 21.55,
-      "pct_chg": -4.69
-    },
-    {
-      "symbol": "SIMPLXREA",
-      "close": 123.92,
-      "pct_chg": -4.68
-    },
-    {
-      "symbol": "TIIL",
-      "close": 3127.5,
-      "pct_chg": -4.66
-    },
-    {
-      "symbol": "TIRUMALCHM",
-      "close": 144.28,
-      "pct_chg": -4.66
-    },
-    {
-      "symbol": "BHAGYANGR",
-      "close": 382.4,
-      "pct_chg": -4.65
-    },
-    {
-      "symbol": "SUPTANERY",
-      "close": 7.81,
-      "pct_chg": -4.64
-    },
-    {
-      "symbol": "MADHAV",
-      "close": 35.38,
-      "pct_chg": -4.64
+      "symbol": "TAMBOLIIN",
+      "close": 242.51,
+      "pct_chg": -4.91
     },
     {
       "symbol": "GANGAFORGE",
-      "close": 2.26,
-      "pct_chg": -4.64
+      "close": 2.15,
+      "pct_chg": -4.87
     },
     {
-      "symbol": "AARTIPHARM",
-      "close": 834.15,
-      "pct_chg": -4.62
+      "symbol": "ALPHAGEO",
+      "close": 328.66,
+      "pct_chg": -4.85
     },
     {
-      "symbol": "DHATRE",
-      "close": 4.37,
+      "symbol": "TVVISION",
+      "close": 3.75,
+      "pct_chg": -4.82
+    },
+    {
+      "symbol": "LAOPALA",
+      "close": 178.35,
+      "pct_chg": -4.75
+    },
+    {
+      "symbol": "KUANTUM",
+      "close": 74.99,
+      "pct_chg": -4.71
+    },
+    {
+      "symbol": "BNALTD",
+      "close": 395.0,
+      "pct_chg": -4.68
+    },
+    {
+      "symbol": "AARTISURF",
+      "close": 562.05,
       "pct_chg": -4.59
     },
     {
-      "symbol": "ASIANTNE",
-      "close": 9.03,
-      "pct_chg": -4.55
+      "symbol": "TAKE",
+      "close": 21.84,
+      "pct_chg": -4.59
     },
     {
-      "symbol": "JAYKAY",
-      "close": 147.61,
-      "pct_chg": -4.48
+      "symbol": "STLSTRINF",
+      "close": 18.23,
+      "pct_chg": -4.5
     },
     {
-      "symbol": "AARTECH",
-      "close": 49.08,
-      "pct_chg": -4.48
+      "symbol": "BETA",
+      "close": 2295.0,
+      "pct_chg": -4.34
     },
     {
-      "symbol": "DECNGOLD",
-      "close": 233.21,
-      "pct_chg": -4.44
+      "symbol": "ASTERDM",
+      "close": 765.65,
+      "pct_chg": -4.32
     },
     {
-      "symbol": "GSS",
-      "close": 12.5,
-      "pct_chg": -4.43
+      "symbol": "KPEL",
+      "close": 256.65,
+      "pct_chg": -4.31
     },
     {
-      "symbol": "MANUGRAPH",
-      "close": 15.81,
-      "pct_chg": -4.41
-    },
-    {
-      "symbol": "DBREALTY",
-      "close": 101.79,
-      "pct_chg": -4.4
-    },
-    {
-      "symbol": "GRANDOAK",
-      "close": 37.81,
-      "pct_chg": -4.4
-    },
-    {
-      "symbol": "CEMPRO",
-      "close": 1265.7,
-      "pct_chg": -4.4
-    },
-    {
-      "symbol": "INDOFARM",
-      "close": 137.16,
-      "pct_chg": -4.3
-    },
-    {
-      "symbol": "CAPTRUST",
-      "close": 20.49,
-      "pct_chg": -4.3
-    },
-    {
-      "symbol": "TERASOFT",
-      "close": 329.45,
-      "pct_chg": -4.27
-    },
-    {
-      "symbol": "SHREERAMA",
-      "close": 44.37,
-      "pct_chg": -4.25
-    },
-    {
-      "symbol": "THYROCARE",
-      "close": 582.5,
-      "pct_chg": -4.23
-    },
-    {
-      "symbol": "HEG",
-      "close": 708.05,
-      "pct_chg": -4.22
-    },
-    {
-      "symbol": "BATAINDIA",
-      "close": 721.3,
-      "pct_chg": -4.22
-    },
-    {
-      "symbol": "ZODIAC",
-      "close": 245.25,
-      "pct_chg": -4.22
-    },
-    {
-      "symbol": "SANGHVIMOV",
-      "close": 498.75,
-      "pct_chg": -4.22
-    },
-    {
-      "symbol": "COCKERILL",
-      "close": 8010.5,
+      "symbol": "SUDEEPPHRM",
+      "close": 1107.8,
       "pct_chg": -4.2
     },
     {
-      "symbol": "KRISHNADEF",
-      "close": 1077.8,
-      "pct_chg": -4.2
+      "symbol": "SHAHALLOYS",
+      "close": 77.3,
+      "pct_chg": -4.19
     },
     {
-      "symbol": "POWERINDIA",
-      "close": 33800.0,
+      "symbol": "NEUEON",
+      "close": 16.04,
       "pct_chg": -4.18
     },
     {
-      "symbol": "FILATEX",
-      "close": 83.15,
-      "pct_chg": -4.15
+      "symbol": "YASHO",
+      "close": 4284.2,
+      "pct_chg": -4.17
     },
     {
-      "symbol": "AUTOIND",
-      "close": 85.04,
+      "symbol": "GRANDOAK",
+      "close": 36.25,
       "pct_chg": -4.13
     },
     {
-      "symbol": "GUJRAFFIA",
-      "close": 40.66,
-      "pct_chg": -4.13
-    },
-    {
-      "symbol": "3MINDIA",
-      "close": 33505.0,
+      "symbol": "TUTIALKA",
+      "close": 53.33,
       "pct_chg": -4.12
     },
     {
-      "symbol": "PVSL",
-      "close": 113.43,
-      "pct_chg": -4.08
+      "symbol": "SHILGRAVQ",
+      "close": 162.51,
+      "pct_chg": -4.12
     },
     {
-      "symbol": "NELCO",
-      "close": 910.1,
-      "pct_chg": -4.08
+      "symbol": "RRIL",
+      "close": 16.34,
+      "pct_chg": -4.05
     },
     {
-      "symbol": "AMAGI",
-      "close": 555.6,
-      "pct_chg": -4.07
+      "symbol": "SEMAC",
+      "close": 284.7,
+      "pct_chg": -4.03
     },
     {
-      "symbol": "NOVARTIND",
-      "close": 1531.7,
-      "pct_chg": -4.06
+      "symbol": "SUMEDHA",
+      "close": 38.27,
+      "pct_chg": -4.01
     },
     {
-      "symbol": "HSCL",
-      "close": 750.25,
-      "pct_chg": -4.04
-    },
-    {
-      "symbol": "UCAL",
-      "close": 146.18,
-      "pct_chg": -4.02
-    },
-    {
-      "symbol": "HINDADH",
-      "close": 369.95,
-      "pct_chg": -4.02
+      "symbol": "BOHRAIND",
+      "close": 14.15,
+      "pct_chg": -4.0
     }
   ]
 }
