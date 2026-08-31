@@ -492,5 +492,24 @@
     "up_25pct_month_count": 162,
     "down_25pct_month_count": 20,
     "up_down_volume_ratio": 1.068
+  },
+  {
+    "date": "2026-08-31",
+    "total_symbols": 2879,
+    "advances": 985,
+    "declines": 1871,
+    "unchanged": 22,
+    "ad_ratio": 0.526,
+    "pct_above_50dma": null,
+    "pct_above_150dma": null,
+    "pct_above_200dma": null,
+    "new_highs_count": 226,
+    "new_lows_count": 444,
+    "up_4pct_count": 163,
+    "down_4pct_count": 147,
+    "net_4pct": 16,
+    "up_25pct_month_count": 178,
+    "down_25pct_month_count": 22,
+    "up_down_volume_ratio": 0.965
   }
 ]
